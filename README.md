@@ -7,7 +7,7 @@ Email Developer & Web Content Editor
 I'm experienced in translating design mockups in HTML email documents and deploying <br> 
 email marketing campaigns in the Financial, Insurance, SaaS and Ecommerce spaces.
 
-* 🌍  I'm based in Chicago (Remote)
+* 🌍  I'm based in Chicago Metro Area (Remote)
 * 🧠  I'm learning Javascript
 * ⚡  Proficient in Litmus QA Testing, Aweber and Mailchimp
 
